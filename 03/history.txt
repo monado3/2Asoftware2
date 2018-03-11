@@ -1,0 +1,14 @@
+cir 40 20 5
+cir 40 20 10
+dot 24 23
+fill 39 20
+pen '
+fill 40 13
+dot 40 1
+line 15 10
+pen
+line 15 10
+dot 20 10
+dot 25 10
+line 15 30
+line 20 15
